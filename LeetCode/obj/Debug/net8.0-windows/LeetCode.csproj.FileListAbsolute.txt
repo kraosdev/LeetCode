@@ -1,0 +1,16 @@
+D:\KraosDev\LeetCode\LeetCode\LeetCode\bin\Debug\net8.0-windows\LeetCode.exe
+D:\KraosDev\LeetCode\LeetCode\LeetCode\bin\Debug\net8.0-windows\LeetCode.deps.json
+D:\KraosDev\LeetCode\LeetCode\LeetCode\bin\Debug\net8.0-windows\LeetCode.runtimeconfig.json
+D:\KraosDev\LeetCode\LeetCode\LeetCode\bin\Debug\net8.0-windows\LeetCode.dll
+D:\KraosDev\LeetCode\LeetCode\LeetCode\bin\Debug\net8.0-windows\LeetCode.pdb
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.Form1.resources
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.csproj.GenerateResource.cache
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.AssemblyInfoInputs.cache
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.AssemblyInfo.cs
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.csproj.CoreCompileInputs.cache
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.dll
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\refint\LeetCode.dll
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.pdb
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.genruntimeconfig.cache
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\ref\LeetCode.dll
