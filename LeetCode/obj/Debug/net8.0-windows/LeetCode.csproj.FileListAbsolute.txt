@@ -14,3 +14,4 @@ D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\refint\LeetCode.
 D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.pdb
 D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.genruntimeconfig.cache
 D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\ref\LeetCode.dll
+D:\KraosDev\LeetCode\LeetCode\LeetCode\obj\Debug\net8.0-windows\LeetCode.sourcelink.json
