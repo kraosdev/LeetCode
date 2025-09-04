@@ -38,6 +38,8 @@ namespace LeetCode
             Console.WriteLine("OK");
         }
 
+        // TEST CHANGE GIT BASH USER
+
         // 14. Longest Common Prefix
         public string LongestCommonPrefix(string[] strs)
         {
